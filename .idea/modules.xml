@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PrivateSDKTest.iml" filepath="$PROJECT_DIR$/.idea/modules/PrivateSDKTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PrivateSDKTest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PrivateSDKTest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk-test-ms/PrivateSDKTest.sdk-test-ms.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk-test-ms/PrivateSDKTest.sdk-test-ms.iml" />
+    </modules>
+  </component>
+</project>

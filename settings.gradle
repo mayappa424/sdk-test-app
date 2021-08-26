@@ -1,0 +1,3 @@
+include ':sdk-test-ms'
+include ':app'
+rootProject.name = "PrivateSDKTest"
